@@ -1,0 +1,11 @@
+<?php
+$s_menu_QR_link = 'Code QR';
+$s_plugin_QR_description = 'Create QR Code';
+$s_plugin_QR_issue = 'Issue No.';
+$s_plugin_QR_attend_by = '';
+$s_plugin_QR_date = 'Date: ';
+$s_plugin_QR_category = 'Category: ';
+$s_plugin_QR_project = 'Project: ';
+$s_plugin_QR_print = 'Print';
+
+

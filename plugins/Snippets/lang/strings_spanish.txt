@@ -1,0 +1,54 @@
+<?php
+
+# Copyright (c) 2010 - 2012  John Reese
+# Copyright (c) 2012 - 2014  MantisBT Team - mantisbt-dev@lists.sourceforge.net
+# Licensed under the MIT license
+
+$s_plugin_Snippets_ = '';
+$s_plugin_Snippets_name = 'Plantillas';
+$s_plugin_Snippets_description = 'Permite a los usuarios crear plantillas de texto';
+
+$s_plugin_Snippets_error_name_empty = 'El nombre de la plantilla esta vacio.';
+$s_plugin_Snippets_error_value_empty = 'El contenido de la plantilla esta vacio.';
+
+$s_plugin_Snippets_select_label = 'Plantillas: ';
+$s_plugin_Snippets_select_default = '--';
+
+$s_plugin_Snippets_list_title = 'Mis Plantillas';
+$s_plugin_Snippets_list_global_title = 'Plantillas Globales';
+$s_plugin_Snippets_list_name = 'Nombre';
+$s_plugin_Snippets_list_value = 'Plantilla';
+
+$s_plugin_Snippets_edit_title = 'Editar mis plantillas';
+$s_plugin_Snippets_edit_global_title = 'Editar plantillas globales';
+$s_plugin_Snippets_edit_name = 'Nombre';
+$s_plugin_Snippets_edit_value = 'Plantilla';
+
+$s_plugin_Snippets_create_title = 'Crear una plantilla';
+$s_plugin_Snippets_create_global_title = 'Crear una plantilla global';
+$s_plugin_Snippets_create_name = 'Nombre';
+$s_plugin_Snippets_create_value = 'Plantilla';
+
+$s_plugin_Snippets_config = 'Configuración';
+$s_plugin_Snippets_config_title = 'Configuración de plantilla';
+$s_plugin_Snippets_edit_global_threshold = 'Editar plantillas globales';
+$s_plugin_Snippets_use_global_threshold = 'Usar plantillas globales';
+$s_plugin_Snippets_edit_own_threshold = 'Editar plantillas propias';
+
+$s_plugin_Snippets_action_go = 'Ir';
+$s_plugin_Snippets_action_create = 'Crear';
+$s_plugin_Snippets_action_edit = 'Editar';
+$s_plugin_Snippets_action_delete = 'Borrar';
+$s_plugin_Snippets_action_delete_confirm = 'Está seguro que desea borrar las siguientes plantillas?.';
+$s_plugin_Snippets_action_update = 'Actualizar';
+
+$s_plugin_Snippets_pattern_help = '
+	<table>
+	<tr><td><strong>%u</strong></td><td>Tú nombre de usuario</td></tr>
+	<tr><td><strong>%r</strong></td><td>Nombre quien reporta la solicitud</td></tr>
+	<tr><td><strong>%h</strong></td><td>Nombre quien gestiona la solicitud</td></tr>
+	<tr><td><strong>%p</strong></td><td>Nombre del Proyecto</td></tr>
+	</table>
+	';
+
+$s_plugin_Snippets_textarea_names = 'Utilizar plantillas para:';

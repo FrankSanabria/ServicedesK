@@ -1,0 +1,16 @@
+<?PHP
+	$s_plugin_format_title = 'Establecer Fecha de Vencimiento';
+	$s_plugin_customceporter_config = 'Configuración';
+	$s_duedate_days ='Minimas horas por defectos para solicitudes sin prioridad';
+	$s_duedate_priority ='Horas por defecto para la prioridad: ';
+	$s_change_configuration ='Actualizar Configuración';
+	$s_cat_definition ='Definir fecha de vencimiento por categoria/prioridad';
+	$s_prio_definition ='Definir fecha de vencimiento por prioridad';
+	$s_due_submit ='Agregar Definición';
+	$s_cat_title ='Proyecto <=> Categoria';
+	$s_cat_duedays = 'Días';
+	$s_due_remove ='Eliminar';
+	$s_duedate_enabled= 'Sí';
+	$s_duedate_disabled= 'No'; 
+	$s_overrule_duedate = 'Ajustar fecha de vencimiento despues de cada actualización';
+

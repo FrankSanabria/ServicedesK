@@ -1,0 +1,47 @@
+INSTALLATION
+
+1.
+  Make "MantisStats" folder in "plugins" folder of your MantisBT installation.
+  Please note that folder name is case-sensitive! 
+  Unpack content of the downloaded archive into the created folder.
+
+2.
+  In your MantisBT's Web interface go to "Manage" -> "Manage Plugins" and 
+  click on "Install" for "MantisStats" plugin.
+
+Typical structure looks like this:
+
+    << mantisbt >>
+    | -- api
+    | -- core
+    | ...
+    | ...
+    | -- plugins
+    |     | -- MantisStats
+    |     |     | -- files
+    |     |     | -- lang
+    |     |     | -- pages
+    |     |     | -- INSTALL
+    |     |     | -- LICENSE
+    |     |     | -- MantisStats.php
+
+
+
+UPGRADE
+
+1.
+  Make backup of your local "MantisStats" folder and then empty it.
+  Unpack content of the downloaded archive into same folder.
+
+2.
+  Check if database "upgrade" is needed on the "Manage Plugins" page.
+  Check plugin configuration page to see if there are new settings or reports.
+
+
+
+PROBLEMS?
+
+Create support ticket in our MantisBT or send email:
+
+MantisBT: https://www.mantisstats.org/mantis/
+Email: plugin.support@mantisstats.org

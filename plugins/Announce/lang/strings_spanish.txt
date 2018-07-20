@@ -1,0 +1,40 @@
+<?php
+
+# Copyright (c) 2010 John Reese
+# Licensed under the MIT license
+
+$s_plugin_Announce_ = '';
+$s_plugin_Announce_plugin_title = 'Anuncios';
+$s_plugin_Announce_plugin_description = 'Permite a los adminsitradores mostrar anuncios en diferentes proyectos';
+
+$s_plugin_Announce_title = 'Título';
+$s_plugin_Announce_message = 'Mensaje';
+$s_plugin_Announce_timestamp = 'Timestamp';
+$s_plugin_Announce_ttl = 'Tiempo visible';
+$s_plugin_Announce_ttl_help = 'En segundos; use cero (0) para mostrarlo indefinidamente';
+$s_plugin_Announce_location = 'Ubicación';
+$s_plugin_Announce_access = 'Nivel de Acceso';
+$s_plugin_Announce_access_help = 'Mostrar a los perfiles con este nivel de acceso o superior';
+$s_plugin_Announce_project = 'Proyecto';
+$s_plugin_Announce_dismiss = 'Oculto';
+$s_plugin_Announce_dismissed = 'Dismissed';
+$s_plugin_Announce_dismissable = '¿Se puede cerrar?';
+$s_plugin_Announce_select_one = 'Seleccione Uno';
+
+$s_plugin_Announce_list_title = 'Anuncios';
+$s_plugin_Announce_create_title = 'Nuevo Anuncio';
+$s_plugin_Announce_edit_title = 'Editar Anuncios';
+
+$s_plugin_Announce_config = 'Configuración';
+$s_plugin_Announce_config_title = 'Configuración de Anuncios';
+$s_plugin_Announce_config_manage_threshold = 'Adminsitrar Anuncios';
+
+$s_plugin_Announce_action_go = 'Ir';
+$s_plugin_Announce_action_create = 'Crear';
+$s_plugin_Announce_action_edit = 'Editar';
+$s_plugin_Announce_action_delete = 'Borrar';
+$s_plugin_Announce_action_delete_confirm = '¿En realidad deseas borrar los siguientes anuncios?';
+$s_plugin_Announce_action_update = 'Actualizar';
+
+$s_plugin_Announce_location_header = 'Cabecera de Página';
+

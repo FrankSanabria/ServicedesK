@@ -1,0 +1,10 @@
+<?php
+$s_menu_QR_link = 'Código QR';
+$s_plugin_QR_description = 'Generar Codigo QR de las solicitudes';
+$s_plugin_QR_issue = 'Solicitud No: ';
+$s_plugin_QR_attend_by = 'Atendido Por: ';
+$s_plugin_QR_date = 'Radicado el: ';
+$s_plugin_QR_category = 'Categoria: ';
+$s_plugin_QR_project = 'Área: ';
+$s_plugin_QR_print = 'Imprimir';
+

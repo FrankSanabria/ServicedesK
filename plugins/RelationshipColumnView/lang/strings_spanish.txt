@@ -1,0 +1,17 @@
+<?php
+$s_plugin_RelationshipColumnView_config_title                        = 'RelationshipColumnView - configuración';
+$s_plugin_RelationshipColumnView_config_caption                      = 'Configuración para Todos los Proyectos';
+$s_plugin_RelationshipColumnView_config_yes                          = 'Sí';
+$s_plugin_RelationshipColumnView_config_no                           = 'No';
+$s_plugin_RelationshipColumnView_show_plugin_info_footer             = 'Mostrar Plugin en el pie de página?';
+$s_plugin_RelationshipColumnView_show_relationship_information       = 'Mostrar Columna de Relaciones?';
+$s_plugin_RelationshipColumnView_show_relationship_information_info  = 'If the new column "relationshipcolumnview_relationship" (from "All Available Columns") of the "Manage / Manage Configuration / Manage Columns" is at least for the view "View Issues" configured';
+$s_plugin_RelationshipColumnView_show_relationships                  = 'Mostrar Relaciones?';
+$s_plugin_RelationshipColumnView_show_relationships_colorful         = 'Mostrar los colores de las relaciones?';
+$s_plugin_RelationshipColumnView_show_relationship_icons             = 'Mostrar Iconos?';
+$s_plugin_RelationshipColumnView_show_relationships_control          = 'Mostrar las Opciones de las relaciones?';
+$s_plugin_RelationshipColumnView_show_relationships_control_info     = 'Si un usuario tiene el nivel de acceso';
+$s_plugin_RelationshipColumnView_relationship_column_access_level    = 'Columna de relaciones de niveles de acceso';
+
+/* view all bug page */
+$s_plugin_RelationshipColumnView_relationship                        = 'Relaciones';

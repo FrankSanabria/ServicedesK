@@ -1,0 +1,11 @@
+@import '../../default.css';
+
+td.menu,
+.tblheader {
+background-color:#3b5998;
+}
+
+.form-title {
+background-color:#3b5998 !important;
+
+}

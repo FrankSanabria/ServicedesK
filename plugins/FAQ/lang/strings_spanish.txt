@@ -1,0 +1,26 @@
+<?php
+$s_menu_faq_link = 'FAQ';
+$s_plugin_FAQ_description = 'Agregar capacidades de Preguntas Frecuentes';
+$s_plugin_FAQ_add_faq = 'Agregar FAQ';
+$s_plugin_FAQ_add_faq_title = 'Nuevo FAQ';
+$s_plugin_FAQ_post_faq_button = 'Crear FAQ';
+$s_plugin_FAQ_question = 'Pregunta';
+$s_plugin_FAQ_answere = 'Respuesta';
+$s_plugin_FAQ_delete_faq_sure_msg = '¿Seguro(a) desea borarr este FAQ?';
+$s_plugin_FAQ_delete_faq_item_button = 'Borrar FAQ';
+$s_plugin_FAQ_edit_faq_title = 'Editar FAQ';
+$s_plugin_FAQ_update_faq_button = 'Actualizar FAQ';
+$s_plugin_FAQ_import_faq = 'Promover a FAQ';
+$s_plugin_FAQ_search_string = 'Buscar cadena completa';
+$s_plugin_FAQ_close_window = 'Cerrar Ventana';
+// config section
+$s_plugin_FAQ_plugin_format_title = 'Mantis FAQ';
+$s_plugin_FAQ_plugin_format_config = 'Configuración';
+$s_plugin_FAQ_plugin_format_promote_text = '¿Solicitudes pueden ser asociadas como FAQ?';
+$s_plugin_FAQ_plugin_format_project_text = 'Guardar FAQ por Proyecto';
+$s_plugin_FAQ_plugin_format_threshold_text = 'Minimo nivel de acceso permito para crear una FAQ';
+$s_plugin_FAQ_faq_view_check = 'Mantener preguntas frecuentes antes de promocionar';
+$s_plugin_FAQ_faq_view_threshold = 'Minimo nivel de acceso permitido para ver las FAQ';
+$s_plugin_FAQ_faq_view_window = '¿Abrir FAQ en una nueva ventana?';
+$s_plugin_FAQ_plugin_format_enabled = 'Activo';
+$s_plugin_FAQ_plugin_format_disabled = 'Inactivo';

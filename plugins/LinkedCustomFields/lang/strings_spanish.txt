@@ -1,0 +1,31 @@
+<?php
+
+# Copyright (c) 2011 Robert Munteanu (robert@lmn.ro)
+
+# Linked custom fields plugin for MantisBT is free software: 
+# you can redistribute it and/or modify it under the terms of the GNU
+# General Public License as published by the Free Software Foundation, 
+# either version 2 of the License, or (at your option) any later version.
+#
+# Linked custom fields plugin for MantisBT is distributed in the hope 
+# that it will be useful, but WITHOUT ANY WARRANTY; without even the 
+# implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+# See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with Linked custom fields plugin for MantisBT.  
+# If not, see <http://www.gnu.org/licenses/>.
+
+$s_plugin_LinkedCustomFields_ = '';
+$s_plugin_LinkedCustomFields_title = 'Enlace de Campos Personalizados';
+$s_plugin_LinkedCustomFields_description = 'Permite que los campos personalizados se vinculen, creando menús vinculados';
+$s_plugin_LinkedCustomFields_configure_custom_field_links = 'Enlaces personalizados';
+$s_plugin_LinkedCustomFields_custom_field = 'Campo personalizado';
+$s_plugin_LinkedCustomFields_edit = 'Editar';
+$s_plugin_LinkedCustomFields_linked_to = 'Enlazado a';
+$s_plugin_LinkedCustomFields_unsupported_field_type = 'Solo soporta campos de tipo %s';
+$s_plugin_LinkedCustomFields_source_field_value = 'Valor del Campo Fuente';
+$s_plugin_LinkedCustomFields_target_field_values = 'Valor del Campo Objetivo';
+$s_plugin_LinkedCustomFields_submit = 'Guardar Cambios';
+$s_plugin_LinkedCustomFields_target_field_already_linked = 'El campo objetivo ya tiene un enlace personalizado, no se permite doble enlace a un campo.';
+

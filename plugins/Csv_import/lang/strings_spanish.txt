@@ -1,0 +1,48 @@
+<?php
+
+# Custom strings for english language
+$s_plugin_Csv_import_title = 'Importar CSV';
+$s_plugin_Csv_import_description = 'Import CSV files as Mantis issues';
+$s_plugin_Csv_import_config = 'Configuración';
+$s_plugin_Csv_import_update_config = 'Actualizar Configuración';
+$s_plugin_Csv_import_file_format_col_spacer = 'Separador de Columnas';
+$s_plugin_Csv_import_skip_blank_lines = 'Saltar lineas vacias';
+$s_plugin_Csv_import_skip_blank_columns = 'Saltar todas las columnas con cabecera vacia.';
+$s_plugin_Csv_import_create_unknown_cats = 'Crear categorias desconocidas';
+$s_plugin_Csv_import_tab_csv_separator = 'Usar tabulador';
+$s_plugin_Csv_import_error_keys = 'The key "%s" exists on many bugs : %s';
+
+# Import issues
+$s_plugin_Csv_import_manage_issues_link = 'Importar un archivo CSV';
+$s_plugin_Csv_import_manage_issues = 'Importando CSV';
+$s_plugin_Csv_import_issues_file = 'Importar solicitudes desde un archivo CSV';
+$s_plugin_Csv_import_issues_columns = 'File columns';
+$s_plugin_Csv_import_skip_first_line = 'Saltar la primera linea del archivo';
+$s_plugin_Csv_import_file_button = 'Importar archivo';
+$s_plugin_Csv_import_column_number = 'Columna #%d';
+$s_plugin_Csv_import_result_failure_ct = 'Se encontraron errores para estas %d solicitudes';
+$s_plugin_Csv_import_result_nothing_success_ct = '%d Solicitudes no cambiaron';
+$s_plugin_Csv_import_result_import_success_ct = '%d Solicitudes importadas';
+$s_plugin_Csv_import_result_update_success_ct = '%d Solicitudes actualizadas';
+
+$s_plugin_Csv_import_error_nolines = 'Debe haber al menos una línea de datos a importar';
+$s_plugin_Csv_import_error_empty_header = 'No debe de haber un encabezado vacío si salta la primera linea';
+$s_plugin_Csv_import_error_noseparator = 'Cada línea debe tener el separador "%s"';
+$s_plugin_Csv_import_error_col_count = 'Cada linea debe de tener la misma cantidad de separadores "%s"';
+
+$s_plugin_Csv_import_error_file_not_found = 'Archivo no encontrado';
+$s_plugin_Csv_import_error_file_not_writable = 'No se puede escribir en el archivo';
+$s_plugin_Csv_import_error_file_not_opened = 'No se puede abrir el archivo';
+$s_plugin_Csv_import_error_col_multiple = 'Misma columna defina mas de una vez';
+$s_plugin_Csv_import_error_bug_not_exist = 'La solicitud %d no existe';
+$s_plugin_Csv_import_error_bug_bad_project = 'La solicitud %d no pertenece al actual proyecto';
+$s_plugin_Csv_import_error_any = 'Error al crear la solicitud "%s"';
+$s_plugin_Csv_import_error_custom_field = 'Error al importar el campo personalizado "%s" para la solicitud "%s"';
+$s_plugin_Csv_import_error_col_select_multiple = 'The following fields have been selected for more than one column:';
+$s_plugin_Csv_import_max_file_size_label = 'Tamaño Máximo';
+
+# Errors
+$MANTIS_ERROR['plugin_Csv_import_ERROR_ALL_PROJECT'] = 'Un proyecto debe de ser seleccionado para importar las solicitudes';
+$MANTIS_ERROR['plugin_Csv_import_ERROR_FILE_FORMAT'] = 'Formato incorrecto de imporatación: %s';
+$MANTIS_ERROR['plugin_Csv_import_ERROR_FILE'] = 'Hubo un error con el archivo';
+$MANTIS_ERROR['plugin_Csv_import_ERROR_FILE_UPLOAD'] = 'Servidor no puede almacenar el archivo cargado.';

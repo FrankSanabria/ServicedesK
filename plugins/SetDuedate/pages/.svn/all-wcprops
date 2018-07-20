@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mantis/!svn/ver/107/trunk/var/www/html/mantisbt/plugins/SetDuedate/pages
+END
+config_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mantis/!svn/ver/106/trunk/var/www/html/mantisbt/plugins/SetDuedate/pages/config_edit.php
+END
+due_cat_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mantis/!svn/ver/106/trunk/var/www/html/mantisbt/plugins/SetDuedate/pages/due_cat_add.php
+END
+duedate_delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mantis/!svn/ver/106/trunk/var/www/html/mantisbt/plugins/SetDuedate/pages/duedate_delete.php
+END
+cat_definition.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mantis/!svn/ver/107/trunk/var/www/html/mantisbt/plugins/SetDuedate/pages/cat_definition.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mantis/!svn/ver/106/trunk/var/www/html/mantisbt/plugins/SetDuedate/pages/config.php
+END
